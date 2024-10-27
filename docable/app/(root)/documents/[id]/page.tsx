@@ -8,7 +8,7 @@ const Documents = () => {
     <div>
       <Header>
         <div className='flex w-fit justify-center items-center gap-2'>
-          <p className='document-title'>Fake Title</p>
+          <p className='document-title'>Fake Title for now</p>
         </div>
       </Header>
       <Editor/>
