@@ -39,7 +39,7 @@ export const dateConverter = (timestamp: string): string => {
     case diffInHours >= 1:
       return `${Math.floor(diffInHours)} hours ago`;
     case diffInMinutes >= 1:
-      return `${Math.floor(diffInMinutes)} minutess ago`;
+      return `${Math.floor(diffInMinutes)} minutes ago`;
     default:
       return 'Just now';
   }
