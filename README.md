@@ -1,2 +1,2 @@
-# Syncly_Next.js
+# docable_Next.js
 This is a collaborative writing tool
